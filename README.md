@@ -25,18 +25,20 @@ The network is one of our most fundamental mediums for interactivity. It makes p
   * [Download p5.js](http://p5js.org/download/). The download comes with a copy of p5.js, you can also use a statically hosted version from the [CDN](http://cdnjs.com/libraries/p5.js), more info on that [here](http://p5js.org/get-started/#file-setup).
   * [Getting started with p5.js](http://p5js.org/get-started/)
   * [Processing <> p5.js transition](https://github.com/lmccart/p5.js/wiki/Processing-transition)
-  * If you aren't using the p5.js edtior, you'll need to run a [local web server with python or apache](https://github.com/lmccart/p5.js/wiki/Local-server). 
+  * If you aren't using the p5.js edtior, you'll need to run a [local web server with python or apache](https://github.com/lmccart/p5.js/wiki/Local-server).
+* [Here are all the examples](https://github.com/shiffman/EDP-p5.js-workshop/tree/master/01_JS_basics)
 
 ### DOM Manipulation
 * [Intro to DOM manipulation and events](https://github.com/lmccart/p5.js/wiki/Intro-to-DOM-manipulation-and-events) - Use JS to manipulate the HTML page and make it react to events (mouse, keyboard, touch, page load). 
   * [Reference for all DOM events](https://developer.mozilla.org/en-US/docs/Web/Events)
   * [DOM manipulation with no libraries examples](https://github.com/shiffman/itp-networked-media/tree/master/week3/02_dom_pure_js)
 * [Tutorial: p5.dom library](https://github.com/lmccart/p5.js/wiki/Beyond-the-canvas) - You can also use the p5.dom library to handle HTML manipulation and events.
-  * [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
-  * [p5.dom.js examples](https://github.com/shiffman/itp-networked-media/tree/master/week3/04_dom_p5)
+* [p5.dom.js reference](http://p5js.org/reference/#/libraries/p5.dom)
+* [p5.dom.js examples](https://github.com/shiffman/EDP-p5.js-workshop/tree/master/02_DOM_manipulation/01_dom_p5)
 
 ### APIs and Callbacks
 * [Web services: AJAX and JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+* [APIs and callbacks examples](https://github.com/shiffman/EDP-p5.js-workshop/tree/master/03_apis_callbacks)
 
 ### Server side programming?
 * Download [servi](https://github.com/antiboredom/servi.js/releases).
