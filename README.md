@@ -7,13 +7,13 @@ The network is one of our most fundamental mediums for interactivity. It makes p
 
 ### Getting Started
 
-* Some things you'll need / want
-  * [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
-  * Grab the p5.js editor.  This will get you up and running instantly.  This is a very new project and there are likely many bugs.  Help by contributing suggestions and bug reports!
-  * You can also download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
-  * Getting familiar with the command line is useful. Nothing too fancy; just the basics. Take a look at the commands `ls`, `cd`, and `mkdir`. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
+#### Some things you'll need / want
+* [Github student developer pack](https://education.github.com/pack) - includes Digital Ocean $100 credit and more.
+* Grab the p5.js editor.  This will get you up and running instantly.  This is a very new project and there are likely many bugs.  Help by contributing suggestions and bug reports!
+* You can also download a code editor like [TextWrangler](http://www.barebones.com/products/textwrangler/) or [Sublime Text](http://www.sublimetext.com/).
+* Getting familiar with the command line is useful. Nothing too fancy; just the basics. Take a look at the commands `ls`, `cd`, and `mkdir`. [Basic unix commands](http://www.webmonkey.com/2010/02/learn_enough_unix_for_your_resume/#Basic_Commands).
 
-* HTML and CSS
+#### HTML and CSS
   * [Intro to HTML and CSS](https://github.com/lmccart/p5.js/wiki/Intro-to-HTML-and-CSS)
   * [Another Intro to HTML](https://github.com/robynitp/networkedmedia/wiki/Intro-to-HTML)
   * [Another Intro to CSS](https://github.com/robynitp/networkedmedia/wiki/Intro-to-CSS)
