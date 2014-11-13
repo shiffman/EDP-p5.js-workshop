@@ -37,13 +37,12 @@ The network is one of our most fundamental mediums for interactivity. It makes p
 * [p5.dom.js examples](https://github.com/shiffman/EDP-p5.js-workshop/tree/master/02_DOM_manipulation/01_dom_p5)
 
 ### APIs and Callbacks
-* [Web services: AJAX and JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
+* [Tutorial: AJAX and JSON](https://github.com/lmccart/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 * [APIs and callbacks examples](https://github.com/shiffman/EDP-p5.js-workshop/tree/master/03_apis_callbacks)
 
 ### Server side programming?
 * Download [servi](https://github.com/antiboredom/servi.js/releases).
 * [Tutorial: Setting up a web server with Servi](https://github.com/robynitp/networkedmedia/wiki/Web-Servers-with-Servi) - Create a basic file server using these instructions.
-
 * Deployment
   * Sign up for Digital Ocean, try the [Github student developer pack](https://education.github.com/pack).
   * Download an FTP client like [Cyberduck](https://cyberduck.io/?l=en), [Filezilla](https://filezilla-project.org/), [Fetch - mac only](http://fetchsoftworks.com/), etc.
